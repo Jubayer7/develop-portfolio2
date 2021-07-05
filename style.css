@@ -1,0 +1,35 @@
+body{font-family: 'Oswald', sans-serif;}
+section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 40px;
+    color: rgb(231, 14, 148);
+    text-align: center;
+    text-shadow: 2px 2px;
+}
+.hcolor{
+    color:rgb(228, 82, 14) ;}
+.sectiona{
+    padding: 8%;}
+.sectionb{
+    width: 200%;}
+p{
+    text-align: justify;
+    border: 1px solid;
+    padding: 20px 15px;
+    box-shadow: 10px 5px gray;
+    border-radius: 5px;
+
+}
+.sectionb img{
+    width:70%;}
+.sectionc img{
+    width:30%;
+    padding-left: 20px;
+    border-radius: 50%;
+    background-repeat: no-repeat;}
+.sectiond{
+    padding-right: 100px;}
